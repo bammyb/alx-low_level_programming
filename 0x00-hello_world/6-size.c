@@ -15,9 +15,9 @@ int main(void)
 	/*print size of int*/
 	printf("Size of int: %ld byte\n", sizeof(int));
 	/*print size of long*/
-	printf("Size of long: %ld byte\n", sizeof(long));
+	printf("Size of long int: %ld byte\n", sizeof(long));
 	/*print size of long long int*/
-	printf("Size of long int: %ld byte\n", sizeof(long long int));
+	printf("Size of long long int: %ld byte\n", sizeof(long long int));
 	/*print size of float*/
 	printf("Size of float: %ld byte\n", sizeof(float));
 	return (0);
