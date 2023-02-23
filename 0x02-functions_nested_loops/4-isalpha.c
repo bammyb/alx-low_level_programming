@@ -3,6 +3,8 @@
 /**
  * _isalpha - Entry point
  *
+ * @c:is taking int inut and ascii
+ *
  *Check if is a alphabet
  *
  * Return: if it is lowercase return 1 else 0

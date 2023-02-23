@@ -3,6 +3,8 @@
 /**
  * _islower - Entry point
  *
+ * @c:takes input and convert ascii
+ *
  *Check if a alphabet is lowercasr
  *
  * Return: if it is lowercase return 1 else 0
