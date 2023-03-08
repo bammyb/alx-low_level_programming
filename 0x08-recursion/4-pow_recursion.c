@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _pow_recursion: raise to power
+ * _pow_recursion- raise to power
  *
  * @x:
  *
