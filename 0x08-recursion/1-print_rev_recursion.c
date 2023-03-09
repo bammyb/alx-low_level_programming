@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strlen_recursion - print string in rev
+ * _print_rev_recursion - print string in rev
  *
  * @s:
  *
